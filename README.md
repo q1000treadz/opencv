@@ -6,6 +6,8 @@
 ![image](https://github.com/q1000treadz/opencv/assets/42095596/9f84eba3-f0f4-476f-9b08-4a049fad1920)
 26.03
 ![image](https://github.com/q1000treadz/opencv/assets/42095596/86c73337-8950-42ab-80ae-3f77d7e42bb7)
+02.04
+![image](https://github.com/q1000treadz/opencv/assets/42095596/744a4673-7fb0-407e-8490-81d22087b4ef)
 
 09.04
 ![image](https://github.com/q1000treadz/opencv/assets/42095596/f748fa96-c9dd-4789-b905-ee49036a28da)
